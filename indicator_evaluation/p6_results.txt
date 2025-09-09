@@ -1,0 +1,25 @@
+
+    Technical Indicators Strategy:
+    ------------------------------
+    Cumulative Return: 0.592400
+    Standard Deviation of Daily Returns: 0.011629
+    Mean of Daily Returns: 0.000991
+
+    Benchmark (Indicators Strategy):
+    ---------------------------------
+    Cumulative Return: 0.012300
+    Standard Deviation of Daily Returns: 0.017004
+    Mean of Daily Returns: 0.000168
+    
+    Theoretically Optimal Strategy:
+    ---------------------------------
+    Cumulative Return: 5.786100
+    Standard Deviation of Daily Returns: 0.004548
+    Mean of Daily Returns: 0.003817
+
+    Benchmark (Optimal):
+    --------------------
+    Cumulative Return: 0.012300
+    Standard Deviation of Daily Returns: 0.017004
+    Mean of Daily Returns: 0.000168
+    
